@@ -8,7 +8,6 @@ import { FontAwesomeIcon } from './icons'
 
 // Registration of global components
 Vue.component('icon', FontAwesomeIcon)
-
 Vue.prototype.$http = axios
 
 sync(store, router)

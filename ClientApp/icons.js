@@ -11,6 +11,9 @@ fontawesome.library.add(
   require('@fortawesome/fontawesome-free-solid/faHome'),
   require('@fortawesome/fontawesome-free-solid/faList'),
   require('@fortawesome/fontawesome-free-solid/faSpinner'),
+  require('@fortawesome/fontawesome-free-solid/faAnchor'),
+  require('@fortawesome/fontawesome-free-solid/faKeyboard'),
+  require('@fortawesome/fontawesome-free-solid/faQuestion'),
   // Brands
   require('@fortawesome/fontawesome-free-brands/faFontAwesome'),
   require('@fortawesome/fontawesome-free-brands/faMicrosoft'),
